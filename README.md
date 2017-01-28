@@ -1,5 +1,5 @@
 # Crypt0r---Password-Generator
-A simple yet powerful truly random strong password generator. It can generate strong passwords within the ASCII and Extended ASCII with various sizes (either 20, 40, 60 or 220 characters). Make sure you save the password somewhere safe, due to true randmoness this app uses, you won't be able to generate it again.
+A simple yet powerful truly random strong password generator that I made during a break at work. It can generate strong passwords within the ASCII and Extended ASCII with various sizes (either 20, 40, 60 or 220 characters). Make sure you save the password somewhere safe, due to true randmoness this app uses, you won't be able to generate it again.
 
 I personally use the passwords generated with the app with security USB keys or tokens.
 
